@@ -1,0 +1,37 @@
+.display-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.display-container h2 {
+  margin-bottom: 10px;
+}
+
+.form-data h3,
+.country-data h3 {
+  margin-bottom: 5px;
+}
+
+.form-data p,
+.country-data p {
+  margin: 0;
+}
+
+.form-data strong,
+.country-data strong {
+  font-weight: bold;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
